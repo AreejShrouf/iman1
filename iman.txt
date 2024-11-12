@@ -1,0 +1,9 @@
+git init
+
+git add iman.txt
+
+"git commit -m "Initial commit 
+
+git remote add origin https://github.com/AreejShrouf/IMAN.git
+
+git push -u origin main
