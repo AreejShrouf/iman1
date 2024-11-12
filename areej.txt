@@ -1,0 +1,11 @@
+
+git clone https://github.com/AreejShrouf/iman1.git
+
+git checkout -b areej
+
+git add areej.txt
+
+"git commit -m "I added a new file with my
+
+git push origin areej
+
